@@ -1,0 +1,91 @@
+div{
+    width: 100%;
+}
+body{
+    height: 100%;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.986);
+    padding: 30px;
+
+}
+
+table{
+    width: 100%;
+    /* justify-content: center; */
+    padding: 0px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    
+}
+h1,h3{
+    text-align: center;
+    color: beige;
+}
+p{
+    text-align: center;
+    
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-shadow: 60px;
+    text-decoration: solid;
+}
+
+
+td{
+border: 2px solid rgb(22, 19, 19);
+padding: 5px;
+border-radius: 7px;
+width: 10px;
+height: 40px;
+border-collapse: collapse;
+color: rgb(255, 254, 254);
+
+}
+td sub{
+    text-align: left;
+}
+.empt{
+    border-style: hidden;
+    width: 40px;
+}
+tfoot{
+    margin-top: 30px;
+    height: 0px;
+
+}
+.Alkali-metals{
+    background-color:rgb(179, 0, 0) ;
+
+}
+
+.Alkaline-earth-metals{
+    background-color: rgb(51, 88, 26);
+}
+.Transition-metals{
+    background-color: blueviolet;
+}
+.Post-transition-metals{
+    background-color: maroon;
+}
+.Metalloids{
+    background-color: rgb(172, 84, 22);
+}
+.none-metal{
+    background-color: rgb(160, 25, 97);
+}
+.noble-gass{
+    background-color: rgb(255, 18, 18);
+}
+.Unknown{
+    background-color: rgb(109, 109, 109);
+}
+.Lanthanides{
+    background-color:navy;
+}
+.Actinides{
+    background-color: rgb(26, 122, 102);
+}
